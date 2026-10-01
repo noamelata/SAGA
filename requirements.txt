@@ -1,0 +1,10 @@
+torch>=2.4.0
+transformers==5.3.0
+accelerate>=1.0.0
+datasets>=4.0.0
+lm_eval>=0.4.11
+einops
+triton>=2.0.0
+sentencepiece
+safetensors
+networkx
